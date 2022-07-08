@@ -4,3 +4,4 @@
 - [ ] Soul
 - [ ] Mulan
 - [x] Tenet
+- [ ] Lightyear
