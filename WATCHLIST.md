@@ -5,3 +5,4 @@
 - [ ] Mulan
 - [x] Tenet
 - [ ] Lightyear
+- [ ] Tenet
